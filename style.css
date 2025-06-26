@@ -34,3 +34,27 @@ footer{
 .about{
     padding: 20px;
 }
+
+.social-links{
+    margin-top: 10px;
+}
+
+.social-links > a{
+     margin: 0;
+     color: rgb(106, 196, 248);
+     text-decoration: none;
+     font-weight:bold ;
+}
+
+.social-links > a:hover {
+    text-decoration: underline;
+    font-size: 40px;
+    color: #444343;
+}
+
+footer > p{
+    color: #333;
+    font-weight:bold ;
+    font-size: 18px;
+}
+
